@@ -14,3 +14,8 @@ This project explores raw transactional data to uncover business insights:
 - **Power BI**: Interactive dashboard for business users  
 - **GitHub**: Version control and repository hosting
 
+## Key Analyses & Insights  
+- **Sales Trend by Category**: Which product categories (Watches, Eyewear, Shoes, etc.) dominate?  
+- **Customer Order Segmentation**: High-value-order vs Standard-value-orders  
+- **Monthly Sales Behaviours**: Identify spikes in monthly behaviours  
+- **Price vs Quantity Relationship**: Does a higher unit price reduce quantity sold?  

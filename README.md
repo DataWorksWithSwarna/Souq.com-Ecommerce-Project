@@ -22,3 +22,9 @@ This project explores raw transactional data to uncover business insights:
 
 ## Dashboard Visuals
 
+![Dashboard 1 Page 1](Souq-Dashboard1.png)
+
+![Dashboard 1 Page 2](Souq-Dashboard2.png)
+
+![Dashboard 1 Page 3](https://github.com/DataWorksWithSwarna/Souq.com-Ecommerce-Project/blob/75e261be47f7e74a3c179ced36598e10d24d350d/Souq-Dashboard%203.png)
+
